@@ -18,7 +18,6 @@ Python uygulamasıdır.
 | **Bölüm** | Bilgi Güvenliği Teknolojisi (BGT) |
 | **Ders** | BGY210 – Python Programlama II |
 | **Öğretim Elemanı** | Dr. Öğr. Üyesi Tohid YOUSEFİ |
-| **Dönem** | Bahar |
 
 🔗 **GitHub Repo:** (https://github.com/muhiddintalha/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje)
 
