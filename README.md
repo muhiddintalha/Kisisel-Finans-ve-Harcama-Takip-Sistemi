@@ -20,8 +20,8 @@ Python uygulamasıdır.
 | **Öğretim Elemanı** | Dr. Öğr. Üyesi Tohid YOUSEFİ |
 | **Dönem** | Bahar |
 
-🔗 **GitHub Repo:** `https://github.com/<kullanici-adi>/24083002-MuhiddinTalhaYilmaz-PythonProje`
-🌐 **Canlı Web Arayüzü (GitHub Pages):** `https://<kullanici-adi>.github.io/<web-repo-adi>/`
+🔗 **GitHub Repo:** (https://github.com/muhiddintalha/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje)
+🌐 **Canlı Web Arayüzü (GitHub Pages):** (https://muhiddintalha.github.io/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje/)
 
 
 ---
