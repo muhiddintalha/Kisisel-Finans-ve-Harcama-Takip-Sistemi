@@ -1,0 +1,23 @@
+# Python derleme/önbellek dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Sanal ortam klasörleri
+venv/
+.venv/
+env/
+
+# İşletim sistemi / editör dosyaları
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Geçici test/yardımcı dosyalar (teslimde yer almaz)
+_*.js
+_*.txt
+docs/_*.js
+
+# NOT: veriler.csv ve ciktilar/ klasörü, proje çıktıları olarak
+# teslim edileceği için bilerek depoya dahil edilmiştir.
