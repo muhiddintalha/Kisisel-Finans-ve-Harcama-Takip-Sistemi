@@ -21,6 +21,7 @@ Python uygulamasıdır.
 | **Dönem** | Bahar |
 
 🔗 **GitHub Repo:** (https://github.com/muhiddintalha/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje)
+
 🌐 **Canlı Web Arayüzü (GitHub Pages):** (https://muhiddintalha.github.io/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje/)
 
 
