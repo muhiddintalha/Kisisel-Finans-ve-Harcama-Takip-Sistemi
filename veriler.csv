@@ -1,0 +1,33 @@
+﻿id,tutar,tarih,aciklama,tip
+1,32000.0,2025-01-05,Maaş,gelir
+2,4500.0,2025-01-12,Freelance yazılım işi,gelir
+7,32000.0,2025-02-05,Maaş,gelir
+8,2000.0,2025-02-18,İkinci el eşya satışı,gelir
+13,33500.0,2025-03-05,Maaş (zam),gelir
+14,6000.0,2025-03-21,Freelance web sitesi,gelir
+19,33500.0,2025-04-05,Maaş,gelir
+24,33500.0,2025-05-05,Maaş,gelir
+25,5200.0,2025-05-23,Freelance mobil uygulama,gelir
+29,34000.0,2025-06-05,Maaş,gelir
+3,9500.0,2025-01-03,Ev kirası,gider
+4,3200.5,2025-01-09,Market alışverişi,gider
+5,1450.0,2025-01-15,Elektrik + su + doğalgaz,gider
+6,850.0,2025-01-22,Ulaşım (akbil),gider
+9,9500.0,2025-02-03,Ev kirası,gider
+10,2950.75,2025-02-11,Market alışverişi,gider
+11,1600.0,2025-02-14,Sevgililer günü,gider
+12,1200.0,2025-02-20,İnternet + telefon,gider
+15,9500.0,2025-03-03,Ev kirası,gider
+16,3400.0,2025-03-10,Market alışverişi,gider
+17,2200.0,2025-03-16,Giyim,gider
+18,950.0,2025-03-25,"Eğlence (sinema, kafe)",gider
+20,9500.0,2025-04-03,Ev kirası,gider
+21,3100.25,2025-04-12,Market alışverişi,gider
+22,4800.0,2025-04-19,Tatil rezervasyonu,gider
+23,1500.0,2025-04-27,Faturalar,gider
+26,9500.0,2025-05-03,Ev kirası,gider
+27,3650.0,2025-05-13,Market alışverişi,gider
+28,2750.0,2025-05-18,Teknolojik ürün (kulaklık),gider
+30,9500.0,2025-06-03,Ev kirası,gider
+31,3300.0,2025-06-11,Market alışverişi,gider
+32,1850.0,2025-06-20,Spor salonu üyeliği,gider
