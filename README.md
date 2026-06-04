@@ -273,24 +273,6 @@ Ayrıca tüm veriler ve özet analizler **`ciktilar/finans_raporu.xlsx`** dosyas
 
 ---
 
-## 🌐 Web Arayüzü (Ekstra)
-
-Şartnamedeki "konsol **veya** GUI" gereksinimini aşacak şekilde, projeye modern ve
-**premium koyu temalı** bir web arayüzü de eklenmiştir (`docs/index.html`).
-
-Özellikleri:
-- 🎨 Cam efektli (glassmorphism) kartlar, gradient vurgular ve yumuşak animasyonlar
-- ➕ Gelir/gider ekleme (tarih ve tutar doğrulamalı)
-- 🗑️ Kayıt silme, 🔎 filtreleme ve arama
-- 📊 Canlı grafikler (aylık trend, gelir/gider oranı) — Chart.js
-- 💾 Tarayıcıda kalıcı saklama (localStorage) + **CSV içe/dışa aktarma** (Python ile uyumlu)
-- 📱 Mobil uyumlu (responsive) tasarım
-
-Arayüz, herhangi bir sunucuya ihtiyaç duymadan `docs/index.html` dosyası
-tarayıcıda açılarak çalışır; GitHub Pages ile yayınlanarak **paylaşılabilir bir
-internet sitesi** hâline getirilebilir (bkz. `TESLIM_REHBERI.md`).
-
----
 
 ## 🛡️ Hata Yönetimi
 
