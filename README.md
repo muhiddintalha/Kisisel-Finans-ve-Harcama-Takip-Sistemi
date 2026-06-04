@@ -23,8 +23,6 @@ Python uygulamasıdır.
 🔗 **GitHub Repo:** `https://github.com/<kullanici-adi>/24083002-MuhiddinTalhaYilmaz-PythonProje`
 🌐 **Canlı Web Arayüzü (GitHub Pages):** `https://<kullanici-adi>.github.io/<web-repo-adi>/`
 
-> Yukarıdaki bağlantılar, repo oluşturulup yayınlandıktan sonra `TESLIM_REHBERI.md`
-> dosyasındaki adımlara göre güncellenecektir.
 
 ---
 
