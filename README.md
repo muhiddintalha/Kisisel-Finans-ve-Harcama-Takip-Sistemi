@@ -1,7 +1,5 @@
 # 💰 Kişisel Finans ve Harcama Takip Sistemi
 
-> **Python Programlama II (BGY210) – Bahar Dönemi Final Projesi**
-
 Bu proje; kullanıcıların gelir ve giderlerini kaydetmesini, listelemesini, analiz
 etmesini, grafiklerle görselleştirmesini ve verilerini CSV/Excel dosyalarında
 saklamasını sağlayan **modüler**, **nesne tabanlı** ve **veri odaklı** bir
