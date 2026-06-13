@@ -9,16 +9,6 @@ Python uygulamasıdır.
 
 ---
 
-## 👤 Öğrenci Bilgileri
-
-| Alan | Bilgi |
-|------|-------|
-| **Ad Soyad** | Muhiddin Talha Yılmaz |
-| **Okul Numarası** | 24083002 |
-| **Bölüm** | Bilgi Güvenliği Teknolojisi (BGT) |
-| **Ders** | BGY210 – Python Programlama II |
-| **Öğretim Elemanı** | Dr. Öğr. Üyesi Tohid YOUSEFİ |
-
 🔗 **GitHub Repo:** (https://github.com/muhiddintalha/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje)
 
 🌐 **Canlı Web Arayüzü (GitHub Pages):** (https://muhiddintalha.github.io/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje/)
@@ -283,4 +273,3 @@ işlemleri `try-except` blokları ile korunur. Böylece hatalı girişlerde prog
 
 ## 📜 Lisans
 
-Bu proje, BGY210 dersi final ödevi kapsamında **eğitim amaçlı** hazırlanmıştır.
