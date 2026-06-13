@@ -7,9 +7,9 @@ Python uygulamasıdır.
 
 ---
 
-🔗 **GitHub Repo:** (https://github.com/muhiddintalha/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje)
+🔗 **GitHub Repo:** (https://github.com/muhiddintalha/Kisisel-Finans-ve-Harcama-Takip-Sistemi/)
 
-🌐 **Canlı Web Arayüzü (GitHub Pages):** (https://muhiddintalha.github.io/24083002-BGT-MuhiddinTalhaYilmaz-PythonProje/)
+🌐 **Canlı Web Arayüzü (GitHub Pages):** (https://muhiddintalha.github.io/Kisisel-Finans-ve-Harcama-Takip-Sistemi/)
 
 
 ---
